@@ -1,7 +1,7 @@
 # 🚀 My Bootcamp Journey
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Web+Development+Enthusiast;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full;Stack;Developer" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ I love turning ideas into real web applications and I'm excited to start my jour
 * Build more projects for my portfolio
 * Improve problem-solving (LeetCode / Codewars)
 * Contribute to open source
-* Apply for internships / junior roles
+* Apply for internships
 * Learn testing (Jest, Cypress)
 * Explore TypeScript
 
@@ -61,9 +61,8 @@ I love turning ideas into real web applications and I'm excited to start my jour
 
 ## 📫 Let's Connect
 
-* 💼 LinkedIn: https://linkedin.com/in/yourusername
-* 💻 GitHub: https://github.com/yourusername
-* 📧 Email: [youremail@gmail.com](mailto:youremail@gmail.com)
+* 💻 GitHub: https://github.com/JoudaHub
+* 📧 Email: [JoudaJhidri191@gmail.com](mailto:youremail@gmail.com)
 
 ---
 
