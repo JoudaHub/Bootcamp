@@ -1,7 +1,7 @@
 # 🚀 My Bootcamp Journey
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&width=435&lines=Full;Stack;Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=0.1&width=435&lines=Full;Stack;Developer" />
 </p>
 
 ---
